@@ -1,0 +1,18 @@
+2025-11-13 08:36:23,886 - INFO - Database connected successfully.
+2025-11-13 08:36:23,896 - INFO - Employee table created successfully.
+2025-11-13 08:36:23,903 - INFO - Inserted employee: Ram, 27, IT
+2025-11-13 08:36:23,903 - INFO - Fetched employees list.
+2025-11-13 08:36:23,909 - INFO - Updated employee id=1, fields: ['age = ?']
+2025-11-13 08:36:23,910 - INFO - Fetched employees list.
+2025-11-13 08:36:23,915 - INFO - Deleted employee with id=1
+2025-11-13 08:36:23,915 - INFO - Fetched employees list.
+2025-11-13 08:36:23,915 - INFO - Database connection closed.
+2025-11-13 08:43:06,876 - INFO - Database connected successfully.
+2025-11-13 08:43:06,877 - INFO - Employee table created successfully.
+2025-11-13 08:43:06,889 - INFO - Inserted employee: Ram, 27, IT
+2025-11-13 08:43:06,889 - INFO - Fetched employees list.
+2025-11-13 08:43:06,890 - INFO - Updated employee id=1, fields: ['age = ?']
+2025-11-13 08:43:06,890 - INFO - Fetched employees list.
+2025-11-13 08:43:06,890 - INFO - Deleted employee with id=1
+2025-11-13 08:43:06,890 - INFO - Fetched employees list.
+2025-11-13 08:43:06,891 - INFO - Database connection closed.
